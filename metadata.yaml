@@ -1,5 +1,8 @@
 _repo: When-All-the-Woods-Are-Green-A-Novel_53120
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53120-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitchell, S. Weir (Silas Weir)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/357
     wikipedia: http://en.wikipedia.org/wiki/Silas_Weir_Mitchell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53120#When-All-the-Woods-Are-Green-A-Novel
 gutenberg_issued: '2016-09-22'
 gutenberg_type: Text
 identifiers:
